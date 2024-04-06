@@ -28,8 +28,6 @@ public class zad5 {
             System.out.println("Oceny z chemii:");
             obliczISumujOceny(ocenyChemia);
             System.out.println("Mediana ocen z chemii: " + obliczMediane(ocenyChemia));
-
-            System.out.println(); // Pusta linia dla lepszej czytelności
         }
     }
 
