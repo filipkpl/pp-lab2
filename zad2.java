@@ -22,7 +22,7 @@ public class zad2 {
 
             System.out.println("Średnia ocen ucznia nr " + i + " z matematyki: " + sredniaMatematyka);
             System.out.println("Średnia ocen ucznia nr " + i + " z fizyki: " + sredniaFizyka);
-            System.out.println("Średnia ocen ucznia nr " + i + " z chemii: " + sredniaChemia);
+            System.out.println("Średnia ocen ucznia nr " + i + " z chemii: " + sredniaChemia);           
         }
     }
 

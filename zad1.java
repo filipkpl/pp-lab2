@@ -16,8 +16,7 @@ public class zad1 {
 
             System.out.println("Średnia ocen z matematyki dla ucznia nr " + i + ": " + sredniaMatematyka);
             System.out.println("Średnia ocen z fizyki dla ucznia nr " + i + ": " + sredniaFizyka);
-            System.out.println("Średnia ocen z chemii dla ucznia nr " + i + ": " + sredniaChemia);
-            System.out.println(); // Pusta linia dla lepszej czytelności
+            System.out.println("Średnia ocen z chemii dla ucznia nr " + i + ": " + sredniaChemia);         
         }
     }
 
